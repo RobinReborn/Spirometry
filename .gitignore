@@ -7,3 +7,5 @@ pollution.csv
 Output.csv
 .ipynb_checkpoints/
 requirements.txt
+inhaler_days.csv
+pollution_airnow.csv
